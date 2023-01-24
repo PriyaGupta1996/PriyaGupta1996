@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [priya_gupta_resume](https://drive.google.com/file/d/1Q1AElx4EtIVbIb1dK6Jspx5fMp4X130a/view?usp=sharing)
 
-- 🤝 I’m looking for help with [goppsi](https://github.com/PriyaGupta1996/Gopssi)
+- 🤝 I’m looking for help with [gopssi](https://github.com/PriyaGupta1996/Gopssi)
 
 - 💬 Ask me about **javascript, react, node, AWS**
 
