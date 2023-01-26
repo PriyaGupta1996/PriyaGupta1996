@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [goppsi](https://github.com/PriyaGupta1996/Gopssi)
 
-- 💬 Ask me about **javascript, react, node, AWS**
+- 💬 Ask me about **javascript, react, node, AWS, System Design.**
 
 - 📫 How to reach me **priyagupta.ynr@gmail.com**
 
@@ -22,6 +22,7 @@
 <a href="https://linkedin.com/in/priya-gupta-blr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-gupta-blr" height="30" width="40" /></a>
 <a href="https://fb.com/priyaguptaynr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyaguptaynr" height="30" width="40" /></a>
 <a href="https://instagram.com/__priya96__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__priya96__" height="30" width="40" /></a>
+<a href="https://medium.com/@priyagupta.maxout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@priyagupta.maxout" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codeleetpriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codeleetpriya" height="30" width="40" /></a>
 </p>
 
