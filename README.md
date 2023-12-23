@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Tech Blogging, TDD approaches,Investments.**
 
-- 📄 Know about my experiences [priya_gupta_resume](https://drive.google.com/file/d/1PYXQC51Yp_4rwveZUCUsp_8oWgsjeHlJ/view?usp=share_link)
+- 📄 Know about my experiences [priya_gupta_resume](https://drive.google.com/file/d/1_w9Trxq5CcJTUA608G0FYnc5pwdCLJ8K/view?usp=sharing)
 
 - 🤝 I’m looking for help with [goppsi](https://github.com/PriyaGupta1996/Gopssi)
 
