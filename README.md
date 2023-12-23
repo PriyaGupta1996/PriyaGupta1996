@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **javascript, react, node, AWS, System Design.**
 
-- 📫 How to reach me **priyagupta.ynr@gmail.com**
+- 📫 How to reach me **priyagupta.wrk@gmail.com**
 
 - ⚡ Fun fact **I cook Veg Indian food tasty | Come for lunch?**
 
