@@ -45,13 +45,7 @@ I like owning problems end to end.<br/>
 From understanding the business context to designing the architecture, writing production ready code, reviewing PRs, and ensuring the system holds up under real traffic.
 </p>
 
-<p>
-I care deeply about<br/>
-📐 Clean abstractions<br/>
-🔍 Observability<br/>
-📉 Reducing operational load<br/>
-📈 Long term maintainability
-</p>
+<p> I care deeply about<br/> 📐 Clean abstractions<br/> 🔍 Strong observability<br/> 📉 Reducing operational load<br/> 📈 Long term maintainability<br/> ✅ Delivering what's commited with high quality and on time </p>
 
 
 <h3>🔗 Connect with me</h3>
