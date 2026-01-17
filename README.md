@@ -1,34 +1,67 @@
-<h1 align="center">Hi 👋, I'm Priya 👧</h1>
-<h3 align="center">A young, enthusiastic, self-learned, software developer from India. 🇮🇳</h3>
+<h1 align="center">Hi 👋 I’m Priya 👩‍💻</h1>
+<h3 align="center">Senior/Lead Software Engineer building reliable systems and intelligent platforms</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyagupta1996&label=Profile%20views&color=0e75b6&style=flat" alt="priyagupta1996" /> </p>
-
-- 🔭 I’m currently working on **Optical character recognition. 👁️‍🗨️**
-
-- 🌱 I’m currently learning **Tech Blogging, TDD approaches,Investments.**
-
-- 📄 Know about my experiences [priya_gupta_resume](https://drive.google.com/file/d/1_w9Trxq5CcJTUA608G0FYnc5pwdCLJ8K/view?usp=sharing)
-
-- 🤝 I’m looking for help with **collaborating on open source project.**
-
-- 💬 Ask me about **javascript, react, node, AWS, System Design.**
-
-- 📫 How to reach me **priyagupta.wrk@gmail.com**
-
-- ⚡ Fun fact **I cook Veg Indian food tasty | Come for lunch?**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priya-gupta-blr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-gupta-blr" height="30" width="40" /></a>
-<a href="https://fb.com/priyaguptaynr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyaguptaynr" height="30" width="40" /></a>
-<a href="https://instagram.com/__priya96__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__priya96__" height="30" width="40" /></a>
-<a href="https://medium.com/@priyagupta.maxout" target="blank"><img align="center" src="https://github.com/PriyaGupta1996/PriyaGupta1996/blob/main/icons8-medium.svg" alt="@priyagupta.maxout" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/codeleetpriya" target="blank"><img align="center" src="https://github.com/PriyaGupta1996/PriyaGupta1996/blob/main/leetcode.svg" alt="codeleetpriya" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=priyagupta1996&label=Profile%20views&color=0e75b6&style=flat" alt="priyagupta1996" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p>
+I love building things that scale, survive production, and actually reduce human effort.<br/>
+Most of my work lives where engineering depth meets real world impact.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyagupta1996&show_icons=true&locale=en&layout=compact" alt="priyagupta1996" /></p>
+<p>
+I enjoy thinking deeply about systems, breaking them down, rebuilding them better, and then watching them run smoothly in production.<br/>
+Lately, that curiosity has pulled me into AI driven workflows, autonomous agents, and platform level engineering.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyagupta1996&show_icons=true&locale=en" alt="priyagupta1996" /></p>
+<p>
+Outside my work, I like to slow down.<br/>
+Yoga keeps me grounded 🧘‍♀️<br/>
+Spending time with friends and family keeps me balanced 💛<br/>
+Nature keeps me sane, so I’ve surrounded myself with 100+ plants at home :) 🌿
+</p>
+
+<p>
+I constantly crave opportunities that push me to become a better engineer than yesterday.
+</p>
+
+<h3>🚧 What I’m working on right now</h3>
+
+<p>
+🤖 Designing LLM and VLM powered production systems<br/>
+🧠 Building multi agent architectures that can reason, route, and act<br/>
+⚙️ Modernizing legacy applications into cloud native platforms<br/>
+📊 Creating observability first systems that are easy to operate and scale<br/>
+🔐 Secure authentication and authorization flows
+</p>
+
+
+
+<h3>🧭 How I work</h3>
+
+<p>
+I like owning problems end to end.<br/>
+From understanding the business context to designing the architecture, writing production ready code, reviewing PRs, and ensuring the system holds up under real traffic.
+</p>
+
+<p>
+I care deeply about<br/>
+📐 Clean abstractions<br/>
+🔍 Observability<br/>
+📉 Reducing operational load<br/>
+📈 Long term maintainability
+</p>
+
+
+<h3>🔗 Connect with me</h3>
+
+<p>
+<a href="https://www.linkedin.com/in/priya-gupta-blr/" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="LinkedIn"
+       height="30"
+       width="40" />
+</a>
+</p>
