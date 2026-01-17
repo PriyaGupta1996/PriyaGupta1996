@@ -64,6 +64,22 @@ I care deeply about<br/>
        height="30"
        width="40" />
 </a>
+
+<a href="https://medium.com/@priyagupta.maxout" target="_blank">
+  <img align="center"
+       src="https://github.com/PriyaGupta1996/PriyaGupta1996/blob/main/icons8-medium.svg"
+       alt="Medium"
+       height="30"
+       width="40" />
+</a>
+
+<a href="https://substack.com/@priya612175?" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/substack.svg"
+       alt="Substack"
+       height="30"
+       width="40" />
+</a>
 </p>
 
 <h3>🛠️ Skills & Tools</h3>
