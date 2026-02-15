@@ -52,29 +52,19 @@ From understanding the business context to designing the architecture, writing p
 
 <p>
 <a href="https://www.linkedin.com/in/priya-gupta-blr/" target="_blank">
-  <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-       alt="LinkedIn"
-       height="30"
-       width="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://medium.com/@priyagupta.maxout" target="_blank">
-  <img align="center"
-       src="https://github.com/PriyaGupta1996/PriyaGupta1996/blob/main/icons8-medium.svg"
-       alt="Medium"
-       height="30"
-       width="40" />
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<a href="https://substack.com/@priya612175?" target="_blank">
-  <img align="center"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/substack.svg"
-       alt="Substack"
-       height="30"
-       width="40" />
+<a href="https://substack.com/@priya612175" target="_blank">
+  <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
 </a>
 </p>
+
+
 
 
 <h3>🛠️ Skills & Tools</h3>
